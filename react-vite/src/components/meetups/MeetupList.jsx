@@ -1,4 +1,4 @@
-import MeetupItem from '/Users/hiwot-w/Documents/TKH-NextJs/nextjs-project/react-vite/src/components/meetups/MeetupItem.jsx';
+import MeetupItem from './MeetupItem'
 import classes from './MeetupList.module.css'
 
 function MeetupList(props) {
